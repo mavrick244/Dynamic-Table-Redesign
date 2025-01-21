@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        .product-list {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .product-item {
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .product-item:last-child {
+            border-bottom: none;
+        }
+
+        .product-name {
+            font-weight: bold;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .product-details {
+            margin-top: 5px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="product-list">
+        <div class="product-item">
+            <div class="product-name">Diablo 5g</div>
+            <div class="product-details">THC/Composição: 20% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Afghan Kush 5g</div>
+            <div class="product-details">THC/Composição: 15% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Pure Love 5g</div>
+            <div class="product-details">THC/Composição: 14% | Preço: R$ 190.12</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Guava Gelato 5g</div>
+            <div class="product-details">THC/Composição: 18% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Amnesia Spain 5g</div>
+            <div class="product-details">THC/Composição: 21% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Wedding Cake 5g</div>
+            <div class="product-details">THC/Composição: 29% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Premium OG Kush 5g</div>
+            <div class="product-details">THC/Composição: 24% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Girl Scout Cookies 5g</div>
+            <div class="product-details">THC/Composição: 28% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Lemon Haze 5g</div>
+            <div class="product-details">THC/Composição: 19% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Crystal Candy 5g</div>
+            <div class="product-details">THC/Composição: 21% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Forbidden Fruit 5g</div>
+            <div class="product-details">THC/Composição: 26% | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Gorilla Glue 5g</div>
+            <div class="product-details">THC/Composição: 28% | Preço: R$ 254.96</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Master Kush 10 sementes</div>
+            <div class="product-details">THC/Composição: 16% | Preço: R$ 286.70</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Fat Banana 10 sementes</div>
+            <div class="product-details">THC/Composição: 25% | Preço: R$ 286.70</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">Royal Queen 10 sementes</div>
+            <div class="product-details">THC/Composição: 23% | Preço: R$ 286.70</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">LSD 10 abas 200ug</div>
+            <div class="product-details">THC/Composição: - | Preço: R$ 222.81</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">LSD 100 abas 250ug</div>
+            <div class="product-details">THC/Composição: - | Preço: R$ 1,587.34</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">LSD 100 abas 200ug</div>
+            <div class="product-details">THC/Composição: - | Preço: R$ 1,270.34</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">100 comprimidos LOVE ecstasy 500mg</div>
+            <div class="product-details">THC/Composição: - | Preço: R$ 953.16</div>
+        </div>
+        <div class="product-item">
+            <div class="product-name">100 comprimidos Blue Tesla 250mg</div>
+            <div class="product-details">THC/Composição: - | Preço: R$ 762.53</div>
+        </div>
+    </div>
+</body>
+</html>
